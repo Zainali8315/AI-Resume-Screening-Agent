@@ -1,5 +1,3 @@
-# AI-Resume-Screening-Agent
-An AI-powered Resume Screening application built in Python that ranks and shortlists candidates using Expert System rules, Weighted Scoring, and Greedy Selection algorithms.
 # AI Resume Screening Agent
 
 A desktop-based intelligent screening system designed to evaluate, score, and rank candidate resumes automatically based on job descriptions. Built using Python, this project implements various foundational Artificial Intelligence techniques to streamline the recruitment workflow.
